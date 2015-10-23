@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RequestPermission</string>
+    <string name="read_imei_text">To read IMEI of this device, please press below \"Read IMEI\" button.</string>
+    <string name="read_imei">Read IMEI</string>
+    <string name="telephone_module_not_available">Telephone module not available on the device.</string>
+    <string name="info_permission_text">Device access permission is required to display the device\'s IMEI.</string>
+    <string name="error_permission_not_granted">To read device IMEI, you have to grant permission to this app.</string>
+    <string name="ok">OK</string>
+</resources>
